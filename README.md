@@ -156,6 +156,10 @@ npx cezar-run server-install --platform ubuntu-vps
 This sets up HTTPS, a login and a system service, so you can open the cockpit from anywhere, including your phone.
 There are guides for [Ubuntu VPS](docs/server-install/ubuntu-vps.md) and [macOS + ngrok](docs/server-install/macosx-ngrok.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Cezar/)
+
 ## How it works
 
 1. **You describe a task.** Type it, attach files, or start from a GitHub issue.
